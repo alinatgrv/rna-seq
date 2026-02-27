@@ -1,0 +1,5 @@
+name: rna_seq
+channels:
+  - bioconda
+  - conda-forge
+prefix: /usr/local/Caskroom/mambaforge/base/envs/rna_seq
