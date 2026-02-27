@@ -1,0 +1,31 @@
+.DS_Store
+.vscode/
+.idea/
+
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Heavy bioinformatics files
+data/raw/
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.sra
+*.sam
+*.bam
+*.cram
+*.bai
+*.crai
+*.log
+*.out
+*.err
+slurm-*.out
+
+# temp
+tmp/
+cache/
